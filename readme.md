@@ -1,3 +1,11 @@
+<h2>CONFIGURACIÓN DEL ARCHIVO ENV</h2>
+<h3>Credenciales de nuestra app de google</h3>
+<p>GOOGLE_APP_ID=igneous-study-275612
+GOOGLE_CLIENT_ID=365007090469-g5kophu70ejvcapbf0s5g65aaup7kdo4.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=VH7v-4k8s5RuKJcWINuGwjAE
+GOOGLE_REDIRECT=http://127.0.0.1:8000/login/google/callback</p>
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
