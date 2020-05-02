@@ -13,8 +13,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
-
-                    You are logged in!
+                    <iframe style="width:100%;" height="600" src="https://datastudio.google.com/embed/reporting/1iQNFkpwKwM3LRHzCl4ov-wEGONotv_BB/page/3obOB" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
